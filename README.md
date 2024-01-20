@@ -4,6 +4,11 @@
 
 "Swift_Student_Challenge-2023" file for Xcode with an iPhone real device
 
+# What's that about?
+
+I developed this game for the Swift Student Challenge of the Apple Worldwide Developers Conference, I used RealityKit to show a 3D native Brazilian village in augmented reality, because with this technology I could present the most didactic and immersive way possible as a native Brazilian village, you can notice people performing their daily activities, such as fishing, farming, archery training, boating. To make the experience as immersive as possible, I used AVFoundation to play a nature sound that I recorded myself. In this small world are hidden folklore monsters, when finding them the user must touch them, when this happens, I used the UIFeedbackGenerator to generate a vibration in the device. Soon afterward, a small screen appears with the respective legend of that monster.
+
+Now that the user has learned about the Brazilian folklore he can give closure to the game story and be congratulated for having helped the native Brazilian village, I hope that this journey can be a great opportunity for the user to learn about the Brazilian folklore and that it instigates him to know other tales of the our folklore.
 
 # Advises
 if you are trying to use the playground version, you need to use in the iPad playground and follow this recomendations:
