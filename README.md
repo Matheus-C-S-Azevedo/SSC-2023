@@ -6,7 +6,9 @@
 
 
 # Advises
-** App needs to be used in portrait **
+if you are trying to use the playground version, you need to use in the iPad playground and follow this recomendations:
+
+###** App needs to be used in portrait **
 
 I couldn't set the app to accept only portrait mode in playground, so I ask you to lock the ipad in portrait mode and use it this way
 
